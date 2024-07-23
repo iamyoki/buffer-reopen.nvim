@@ -51,7 +51,7 @@ In Lazyvim for example:
   keys = {
     -- disable the default keybindings
     {'<leader>bt', mode={'n'}, false},
-    {'<C-S-Tab>', mode={'n'}, false},
+    {'<C-S-t>', mode={'n'}, false},
   }
 }
 ```
