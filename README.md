@@ -32,7 +32,7 @@ Then run `:PlugInstall` or `:lua require('plug').install('buffer-reopen.nvim')` 
 ### Default Keybindings
 
 - `<leader>bt` - Reopen.
-- `<C-S-Tab>` - Reopen.
+- `<C-S-t>` - Reopen.
 
 ### Commands
 
